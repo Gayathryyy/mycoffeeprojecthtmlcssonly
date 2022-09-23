@@ -1,0 +1,564 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Moon+Dance&family=Oswald&family=Roboto+Mono:wght@100&family=The+Nautigal:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Moon+Dance&family=Oswald&family=Roboto+Mono:wght@100&family=Roboto:wght@400;500;900&family=Rubik+Beastly&family=The+Nautigal:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Comfortaa:wght@500&family=Courgette&family=Creepster&family=Island+Moments&family=Lobster&family=Moon+Dance&family=Oswald&family=Pacifico&family=Roboto+Mono:wght@100&family=Roboto:wght@400;500;900&family=Rubik+Beastly&family=The+Nautigal:wght@400;700&display=swap');
+.menu1{
+    height: 57px;
+    width: 100%; 
+    background-color: black;
+    color: white;
+    margin-top:-8px;
+}
+.m1{
+margin-top: -34px;
+margin-left: 888px; 
+color: white;   
+}
+.m2{
+    margin-top: -34px;
+    margin-left: 1093px; 
+    color: white;  
+}
+.dollar{
+    margin-top: -13px;
+    margin-left: 963px;
+    color: white;
+}
+
+.off{
+    margin-top: 17px;
+    margin-left: 58px;
+    color: cornsilk;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    font-size: 31px;
+}
+.specia{
+    margin-top: -27px;
+    margin-left: 112px;
+    color: cornsilk;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    font-size: 31px;
+}
+.our{
+    width: 210px;
+    height: 114px;
+    margin-top:-3271px;
+    margin-left: 968px;
+    border-radius: 75px;
+    background-color: black;
+
+}
+.ou{
+    margin-top: 0px;
+    margin-left: 41px;
+    font-family: 'Creepster', cursive;
+    font-size: 46px;
+    font-weight: bolder;
+    color: rgb(210, 105, 30);
+}
+.all{
+    margin-top: -30px;
+    margin-left: 180px;
+    color: cornsilk;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    font-size: 31px; 
+}
+.off:hover{
+    color: black;
+}
+.price{
+    margin-top: -43px;
+    margin-left: 987px;
+    color: white; 
+}
+.pri{
+    margin-top: -35px;
+    margin-left: 1247px;
+    color: white;  
+}
+.div1{
+    height: 57px;
+    width: 100%;
+    background-color: #6f4e37;
+    color: wheat;}
+i{
+    margin-left: 227px;
+    margin-top: 9px;
+}
+.barista{
+    margin-left: 272px;
+    margin-top: -60px;
+    font-size: 67px;
+    font-family: 'Moon Dance', cursive;
+}
+.home{
+    margin-left: 611px;
+    margin-top: -98px;   
+}
+.about{
+    margin-left: 719px;
+    margin-top: -33px;
+}
+.buy{
+    margin-left: 835px;
+    margin-top: -34px;
+}
+.thought{
+    margin-top: -35px;
+    margin-left:986px;
+}
+.contact{
+    margin-top: -35px;
+    margin-left:1189px;
+}
+.cart{
+    margin-top: -54px;
+    margin-left: 1059px;
+}
+.div2{
+    width: 100%;
+    height: 647px;
+    background-repeat: no-repeat;
+    background-color: rgb(247, 215, 176);
+background-image: url(./images/iiiiiiiiiiiii.jpg);
+    background-size: cover;
+}
+
+.welcome{
+    height: 54px;
+    width: 742px;
+    margin-left: 332px;
+    margin-top: -831px;
+    color: burlywood;
+    font-family: 'Island Moments', cursive;
+    font-size: 101px;
+    font-weight: bold;
+}
+.welcome:hover{
+    color: cornsilk;
+}
+.div3{
+    background-color: #fff8f9;
+    width: 100%;
+    height: 294px;
+}
+.schemes{
+    border: chocolate solid 7px;
+    width: 221px;
+    height: 118px;
+    border-radius: 66px;
+    margin-left: 37px;
+    font-size: 23px;
+    margin-top: -167px;
+    
+}
+.left{
+    margin-top: -3px;
+    margin-left: 39px;
+    font-family: 'The Nautigal', cursive;
+}
+.quotes{
+    width: 36%;
+    height: 162px;
+    background-color: #844421;
+    border: #481f01 solid 7px;
+    margin-left: 819px;
+    margin-top: -237px;
+    border-radius: 66px;
+}
+.heart{
+    height: 200px;
+    width: 490px;
+background-image: url(./images/images\ \(2\)\ \(28\).jpeg);
+margin-top: -187px;
+margin-left: 297px;
+background-repeat: no-repeat;
+}
+.gallery{
+    width: 100%;
+    height: 2005px;
+    background-color: #eee0cf;
+    margin-top: 860px;   
+}
+.gal{
+    width: 311px;
+    height: 194px;
+    background-size: cover;
+}
+.gal1{
+  
+    margin-left: 1px;
+    background-image: url(./images/Coffee-leadg.jpg);
+    background-size: cover;
+    margin-top: -2002px;
+}
+.gal2{
+   
+    margin-top: 0px;
+    background-image: url(./images/images\ \(2\)\ \(6\).jpeg);
+    background-size: cover;
+    margin-left:201px;
+}
+.gal3{
+    margin-top: 0px;
+    margin-left: 385px;
+    background-image: url(./images/images\ \(2\)\ \(5\).jpeg);
+    background-size: cover;
+}
+.gal4{
+    margin-top: 0px;
+    margin-left: 591px;
+    background-image: url(./images/images\ \(2\)\ \(24\).jpeg); 
+    background-size: cover;
+}
+.gal5{
+    margin-top: 0px;
+    margin-left: 761px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(15\).jpeg);
+}
+.gal6{
+    margin-top: 0px;
+    margin-left: 971px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(26\).jpeg);  
+}
+.gal7{
+    margin-top: 0px;
+    margin-left: 785px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(18\).jpeg);
+}
+.gal8{
+    margin-top: 0px;
+    margin-left: 676px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(23\).jpeg);  
+}
+.gal9{
+    margin-top: 0px;
+    margin-left: 480px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(22\).jpeg);   
+}
+.gal10{
+    margin-top: 0px;
+    margin-left: 320px;
+    background-size: cover;
+    background-image: url(./images/images\ \(2\)\ \(14\).jpeg);
+}
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: #25180b;
+}
+.foot1{
+    width: 1177px;
+    height: 369px;
+    border: #765424 solid 21px;
+    border-radius: 77px;
+    margin-top: -448px;
+    margin-left: 60px;
+}
+.palace{
+    color: burlywood;
+    margin-top: 32px;
+    margin-left:417px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 37px;
+}
+.palac2{
+    color: burlywood;
+    margin-top: -99px;
+text-align: justify;
+padding: 79px;
+font-family: 'The Nautigal', cursive;
+font-size: 229%;
+}
+.gg{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 36px;
+}
+.gg1{
+    margin-left: 13px;
+    margin-top: -3px;
+}
+.tea{
+    width: 455px;
+    height: 155px;
+    margin-top: -2391px;
+    margin-left: 374px;
+    border: solid chocolate 2px;
+}
+.tt{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.tt1{
+    margin-left: 11px;
+    margin-top: -28px;
+}
+.cap{
+    width: 455px;
+    height: 155px;
+    margin-top: 35px;
+    margin-left: 569px;
+    border: solid chocolate 2px;
+
+}
+.cap1{
+    margin-left: 15px;
+    margin-top: -2px;
+}
+.cap11{
+    margin-left: 17px;
+    margin-top: -29px;
+}
+
+.flat{
+    width: 455px;
+    height: 155px;
+    margin-top: 35px;
+    margin-left: 749px;
+    border: solid chocolate 2px;
+}
+.flat1{
+    margin-left: 15px;
+    margin-top: -2px;
+}
+.flatt1{
+    margin-left: 15px;
+    margin-top: -31px;
+}
+
+.fla{
+    width: 361px;
+    height: 155px;
+    margin-top: 35px;
+    margin-left: 945px;
+    border: solid chocolate 2px;
+}
+.box1{
+    margin-left: 15px;
+    margin-top: -2px;
+}
+.box11{
+    margin-left: 15px;
+    margin-top: -31px;
+}
+.frappu{
+    width: 427px;
+    height: 155px;
+    margin-top: 55px;
+    margin-left:284px;
+    border: solid chocolate 2px;
+}
+.frap1{
+    margin-top: 1px;
+    margin-left:9px; 
+}
+.frap{
+    margin-top: -29px;
+    margin-left:9px; 
+}
+.ice{
+    width: 427px;
+    height: 128px;
+    margin-top: 35px;
+    margin-left:491px;
+    border: solid chocolate 2px;
+}
+.iced{
+    margin-top: -4px;
+    margin-left:10px;
+}
+.ice1{
+    margin-top: -28px;
+    margin-left:14px;
+}
+.cold{
+    width: 543px;
+    height: 143px;
+    margin-top: 46px;
+    margin-left:192px;
+    border: solid chocolate 2px;
+}
+.col{
+    margin-top: -4px;
+    margin-left:13px;
+}
+.col1{
+    margin-top: -29px;
+    margin-left:13px;
+}
+.rits{
+    width: 436px;
+    height: 147px;
+    margin-top: 50px;
+    margin-left:192px;
+    border: solid chocolate 2px;
+}
+.rit{
+    margin-top: -1px;
+    margin-left:13px; 
+}
+.ri{
+    margin-top: -32px;
+    margin-left:13px;  
+}
+.mach{
+    width: 436px;
+    height: 147px;
+    margin-top: 50px;
+    margin-left:839px;
+    border: solid chocolate 2px;
+}
+.mac{
+    margin-top: -1px;
+    margin-left:12px;
+}
+.ma{
+    margin-top: -32px;
+    margin-left:12px;
+ 
+}
+.mocha{
+    width: 436px;
+    height: 147px;
+    margin-top: 41px;
+    margin-left:671px;
+    border: solid chocolate 2px;   
+}
+.moc{
+    margin-top: -2px;
+    margin-left:13px;
+}
+.moch{
+    margin-top: -24px;
+    margin-left:13px;
+}
+.terms{
+    width: 100%;
+    height: 568px;
+    background-color: #fff0f3;
+    margin-top: 519px;
+    color: black;
+}
+.enq{
+    margin-left: 100px;
+    margin-top: -513px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size:24px;
+}
+.enq1{
+    margin-left: 100px;
+    margin-top: 26px;
+    font-family: 'Lobster', cursive;
+
+
+}
+.form{
+    margin-left: 100px;
+    margin-top:37px;
+}
+.contac{
+    width: 100%;
+    height: 300px;
+    margin-top: 21px;
+    background-color: black;
+    
+}
+/* #414c6b */
+.design{
+    margin-left: 100px;
+    margin-top: -263px;
+    color: #848484;
+    font-family: 'Comfortaa', cursive;
+
+}
+.gaya{
+    margin-left: 143px;
+    margin-top: 23px;
+    color: #848484;
+    font-family: 'Comfortaa', cursive;
+}
+.abouttt{
+    color: blanchedalmond;
+    margin-left: 397px;
+    margin-top: -27px;
+}
+.out{
+    color: blanchedalmond;
+    margin-left: 581px;
+    margin-top: -3px; 
+    font-family: 'Creepster', cursive;
+    font-size: 27px;
+}
+.tel{
+    border: blanchedalmond solid 1px;
+    margin-top: -126px;
+    margin-left: 979px;
+    width: 309px;
+    height: 200px;
+}
+.touch{
+    margin-left: 17px;
+    font-family: 'Creepster', cursive;
+color: blanchedalmond;
+}
+.to{
+    color: blanchedalmond;
+}
+.phone{
+    margin-top: 32px;
+    margin-left: -204px;
+}
+.mail{
+    margin-top: -9px;
+    margin-left: -204px;
+}
+.twi{
+     
+    color: blanchedalmond;
+}
+.insta{
+    margin-top: -49px;
+    margin-left:305px;
+}
+.facebook{
+    margin-top: -57px;
+    margin-left:372px; 
+}
+.twitter{
+    margin-top: -57px;
+    margin-left:440px; 
+}
+.wifi{
+    margin-top: -57px;
+    margin-left: 509px;    
+}
+.sticky{
+    margin-top: -925px;
+    margin-left: 1142px;
+    height: 117px;
+    width: 100px;
+    background-color: #e3f2de;
+    border-radius: 67px;
+    position: fixed;
+}
+.smile{
+    margin-top: 10px;
+    margin-left: -216px;
+    color: brown;
+    position: fixed;
+}
+.hur{
+    margin-left: -179px;
+    margin-top: -1024px;
+    color: brown;
+    position: fixed;
+}
